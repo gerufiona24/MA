@@ -1,6 +1,0 @@
-My name is Geru sharma;
-This is my first
-
-Added some new data to the file testcase1
-
-this is main branch
